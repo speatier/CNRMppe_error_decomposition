@@ -1,6 +1,6 @@
 # CNRMppe_error_decomposition
 
-This repository contains the data files and code for the analyses presented in the paper :
+This repository contains the code for the analyses presented in the paper :
 
 **Title**: Adressing discrepancy in the calibration of a climate model \
 **Author(s)**: Saloua Peatier, Benjamin M. Sanderson, and Laurent Terray \
